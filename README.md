@@ -36,4 +36,5 @@ To run this project on your local machine:
 
 ## Acknowledgments
 
-A huge thank you to **@codewithharry** for his excellent tutorial on building a Netflix clone. This project was built by following his guidance and served as a great learning experience. His tutorials are highly recommended for anyone starting their web development journey.
+A huge thank you to @CodeWithHarry(https://github.com/CodeWithHarry) for his excellent tutorial on building a Netflix clone. This project was built by following his guidance and served as a great learning experience. His tutorials are highly recommended for anyone starting their web development journey.
+You can find his channel here: [CodeWithHarry on YouTube](https://www.youtube.com/c/CodeWithHarry)
